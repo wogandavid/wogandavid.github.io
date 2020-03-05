@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Wogan / Energy economist"
+title                    : "David Wogan / energy economist"
 title_separator          : "-"
 name                     : &name "David Wogan"
 description              : &description "personal description"
