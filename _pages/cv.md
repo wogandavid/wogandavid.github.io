@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, The University of Texas at Austin, 2006
+* M.S. in Mechanical Engineering, The University of Texas at Austin, 2010
+* M.P.Aff. in Public Affairs, The University of Texas at Austin, 2010
+* Ph.D in Energy Economics, Universite Paris Nanterre, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Q3 2018: Assistant Vice President
+  * Asia Pacific Energy Research Centre
+  * Tokyo, Japan
+  * Duties included: Outlook coordinator, Chief Energy Modeller
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Q2 2014: Senior Research Associate
+  * King Abdullah Petroleum Studies and Research Centre
+  * Riyadh, Saudi Arabia
+  * Duties included: GCC energy system modeling, climate change policy
+
+* Q1 2011: Program Assistant
+  * City of Austin / Austin Energy
+  * Duties included: BetterBuildings
   
 Skills
 ======
