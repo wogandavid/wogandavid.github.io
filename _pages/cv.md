@@ -18,10 +18,10 @@ Education
 
 Work experience
 ======
-* Q3 2018: Assistant Vice President
+* Q3 2018: Senior Researcher, Assistant Vice President
   * Asia Pacific Energy Research Centre
   * Tokyo, Japan
-  * Duties included: Outlook coordinator, Chief Energy Modeller
+  * Outlook coordinator, Chief Energy Modeller
 
 * Q2 2014: Senior Research Associate
   * King Abdullah Petroleum Studies and Research Centre
@@ -30,7 +30,7 @@ Work experience
 
 * Q1 2011: Program Assistant
   * City of Austin / Austin Energy
-  * Duties included: BetterBuildings
+  * Duties included: U.S. Department of Energy BetterBuildings program
 
 * Q2 2010: Intern
  * White House Council on Environmental Quality
