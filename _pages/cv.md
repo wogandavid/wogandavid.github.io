@@ -26,20 +26,30 @@ Work experience
 * Q2 2014: Senior Research Associate
   * King Abdullah Petroleum Studies and Research Centre
   * Riyadh, Saudi Arabia
-  * Duties included: GCC energy system modeling, climate change policy
+  * Expertise: GCC energy system modeling, climate change policy
 
 * Q1 2011: Program Assistant
   * City of Austin / Austin Energy
   * Duties included: BetterBuildings
+
+* Q2 2010: Intern
+ * White House Council on Environmental Quality
+ * Expertise: climate change adaptation 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Energy economics
+* Energy policy
+* Modeling
+  * Mixed-complementarity problem (MCP)
+  * Linear programming
+  * Machine learning
+* Data
+  * Python
+  * Pandas
+* Visualization
+ * Python
+ * Holoviz / Panel
 
 Publications
 ======

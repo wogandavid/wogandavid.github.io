@@ -86,7 +86,7 @@ author:
   location         : "Tokyo, Japan"
   employer         : "https://aperc.ieej.or.jp/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Dq5y7UgAAAAJ&hl=en"
   email            : "david.m.wogan@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
